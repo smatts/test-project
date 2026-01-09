@@ -1,3 +1,3 @@
-# This is a test file!
+# This is a conflicting file
 
-This is test text.
+To test this.
